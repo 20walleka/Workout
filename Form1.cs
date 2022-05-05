@@ -128,7 +128,7 @@ namespace Workout.V1._1
                 switch (number)
                 {
                     case 0:
-                        activity = "15 Jumping Jacks";
+                        activity = "14 Jumping Jacks";
                         break;
                     case 1:
                         activity = "5 Push Ups";
